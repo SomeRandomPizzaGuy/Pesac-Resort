@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #fff;
+    font-size: 20px;
+    color: #333;
+
+}
+
+header {
+    background-image: url(/img/hero.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-text {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(9, 132, 227, 0.6)
+}
+
+header a {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: solid;
+    border-width: 3px;
+    border-color: aqua;
+}
+
+.Pool {
+    height: 450px;
+}
+
+.PoolImg {
+    background-image: url(/img/hotel-pool.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.PoolText {
+    width: 750px;
+    height: auto;
+    float: right;
+}
+
+.Rooms {
+    height: 450px;
+    background-color: #f7f7f7;
+}
+
+.RoomImg {
+    background-image: url(/img/hotel-room.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 10%;
+    margin-top: 75px;
+    margin-right: 75px;
+}
+
+.RoomsText {
+    width: 750px;
+    height: auto;
+    float: left;
+}
+
+.Diners {
+    height: 450px;
+}
+
+.DinersImg {
+    background-image: url(/img/hotel-diner.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.DinersText {
+    width: 750px;
+    height: auto;
+    float: right;
+}
+
+.Spa {
+    height: 450px;
+    background-color: #f7f7f7;
+}
+
+.SpaImg {
+    background-image: url(/img/hotel-spa.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 10%;
+    margin-top: 75px;
+    margin-right: 75px;
+}
+
+.SpaText {
+    width: 750px;
+    height: auto;
+    float: left;
+}
+
+.Terraces {
+    height: 450px;
+}
+
+.TerracesImg {
+    background-image: url(/img/hotel-terrace.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.TerracesText {
+    width: 750px;
+    height: auto;
+    float: right;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
